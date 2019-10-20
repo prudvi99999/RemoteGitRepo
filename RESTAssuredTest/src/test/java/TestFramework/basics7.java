@@ -72,7 +72,7 @@ public class basics7 {
 		//Creating Issue/Defect
 		
 		RestAssured.baseURI= "http://216.10.245.166";
-		HashMap<String, Object>  jsonAsMap = new HashMap<>();
+		HashMap<String, Object>  jsonAsMap = new HashMap<String, Object>();
 		jsonAsMap.put("name", "John");
 		jsonAsMap.put("isbn", "bcsremlkrzd");
 		jsonAsMap.put("aisle", "808");

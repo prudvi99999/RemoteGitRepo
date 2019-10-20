@@ -7,15 +7,15 @@
     </listeners>
   <test name="Test">
     <classes>
-      <class name="TestFramework.basics4"/>
+     <!--   <class name="TestFramework.basics4"/>
       <class name="TestFramework.basics3"/>
       <class name="TestFramework.basics2"/>
       <class name="TestFramework.AppTest"/>
       <class name="TestFramework.basics"/>
       <class name="TestFramework.basics8"/>
-      <class name="TestFramework.basics7"/>
-      <class name="TestFramework.basics6"/>
-      <class name="TestFramework.basics5"/>
+      <class name="TestFramework.basics7"/>-->
+      <class name="TestFramework.Sample"/>
+    
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

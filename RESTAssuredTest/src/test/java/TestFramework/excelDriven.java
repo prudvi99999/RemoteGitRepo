@@ -29,7 +29,7 @@ public class excelDriven {
 		ArrayList data=d.getData("RestAddbook","RestAssured");
 		
 		
-		HashMap<String, Object>  map = new HashMap<>();
+		HashMap<String, Object>  map = new HashMap<String, Object>();
 		map.put("name", data.get(1));
 		map.put("isbn", data.get(2));
 		map.put("aisle", data.get(3));
