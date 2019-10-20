@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="TWLAHP-0050" name="TestFramework.Sample" tests="1" failures="0" timestamp="20 Oct 2019 17:16:06 GMT" time="9.68" errors="0">
+  <testcase name="open" time="9.664" classname="TestFramework.Sample"/>
+</testsuite>
